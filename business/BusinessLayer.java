@@ -3,6 +3,7 @@ package business;
 import java.util.*;
 import components.data.*;
 import service.*;
+import org.w3c.dom.*;
 
 public class BusinessLayer
 {
@@ -167,5 +168,10 @@ public class BusinessLayer
       xml += "</allLabTests></appointment>\n";
       
       return xml;
+   }
+   
+   public String getTextContent(Document doc, String tag)
+   {
+      return doc.getElementsByTagName(tag).item(0).getTextContent();
    }
 }

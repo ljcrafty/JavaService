@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-2017-11-10 01:23:25.559 GMT:
- Booting Derby version The Apache Software Foundation - Apache Derby - 10.2.2.1 - (538595): instance c013800d-015f-a386-40ad-000006f26d20
-on database directory /Users/Lauren/Documents/school/Server/Project2/725DB  
+2017-11-10 04:16:59.733 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.2.2.1 - (538595): instance c013800d-015f-a425-2929-00000eb385a8
+on database directory /Users/lauren/Documents/GitHub/JavaService/725DB  
 
 Database Class Loader started - derby.database.classpath=''
